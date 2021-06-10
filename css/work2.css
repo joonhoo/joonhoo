@@ -1,0 +1,114 @@
+*{
+    margin: 0; padding: 0;
+    font-family: 'Noto Sans KR', sans-serif;
+    list-style-type: none;
+
+}
+div.main_image{
+    height: 1080px;
+    color: white;
+    background-color: white;
+    background-image: url(../img/title.gif);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+div.work1_image{
+    height: 1080px;
+    color: white;
+    background-color: white;
+    background-image: url(../img/furry.png);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+div.work2_image{
+    height: 1080px;
+    color: white;
+    background-color: white;
+    background-image: url(../img/vibe2.png);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+article.main_contents{
+    text-align:center;
+    line-height:0;
+}
+div.main_contents2{
+    font-size:30px;
+    padding-bottom: 120px;
+    color: black;
+    background-color: white;
+}
+
+div.main_contents2 ul.a2_ul{
+    width:1400px;
+    display:inline-block;
+}
+div.main_contents2 ul.a2_ul li{
+    float:center;
+    list-style-type: none;
+    padding-top:100px;
+    padding-left:100px;
+}
+
+div.main_contents2  ul.area2_ul li h2{
+    font-size:45px;
+    color:#2b2b2b;
+    padding:90px 0 0px 0;
+    text-align: center;
+}
+div.main_contents2 ul.area2_ul li img{
+    padding:90px 0 0px 0;
+    padding-left:780px;
+}
+
+div.main_contents2 > ul.area2_ul > li > p{
+    font-size:23px;
+    color:#2b2b2b;
+    line-height:40px;
+padding-top:60px;
+    padding-left:-60px;
+    letter-spacing:2px;
+    text-align: center;
+}
+div.main_contents3{
+    font-size:30px;
+    color: black;
+    background-color: black;
+}
+div.main_contents3 ul.a2_ul{
+
+    display:inline-block;
+}
+div.main_contents3  ul.area2_ul li h2{
+    font-size:45px;
+    color: white;
+    padding:90px 0 30px 0;
+    text-align: center;
+}
+
+div.main_contents3 ul.area2_ul li img{
+    padding:90px 0 0px 0;
+    padding-left:390px;
+}
+div.main_contents3 > ul.area2_ul > li > p{
+    font-size:23px;
+    color:White;
+    line-height:40px;
+padding-top:100px;
+    padding-left:-60px;
+    letter-spacing:2px;
+    text-align: center;
+}
+footer {
+    background-color: #e5e5e5;
+    color: black;
+    font-size: 15px;
+
+    padding-bottom: 20px;
+    text-align: center;
+}
